@@ -1,2 +1,7 @@
 this is file 3 in devops
+<<<<<<< HEAD
 modified by devops
+=======
+modified by ashok
+
+>>>>>>> 236e8a404404ebbf8909c1cade046fd3c0f4f359
